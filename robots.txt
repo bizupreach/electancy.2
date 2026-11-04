@@ -1,0 +1,4 @@
+# The pages are open to search engines; the data files are not for crawling or bulk download.
+User-agent: *
+Disallow: /data/
+Allow: /
